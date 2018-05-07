@@ -1,3 +1,7 @@
+
+抄的：https://github.com/Seanlinx/mtcnn
+用于人头检测
+
 ## Introduction
 this repository is the implementation of MTCNN in MXnet
 * `core`: core routines for MTCNN training and testing.
