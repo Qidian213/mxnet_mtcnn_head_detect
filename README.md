@@ -59,7 +59,7 @@ custom (datasets for testing)
 
 ## Results
  
-![image](https://github.com/Seanlinx/mtcnn/blob/master/fddb_result.png)
+![image](https://github.com/Qidian213/mxnet_mtcnn_head_detect/blob/master/result1.jpg)
     
 ## License
 MIT LICENSE
